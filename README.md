@@ -4,7 +4,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning AI, ML, CV
 - 💞️ I’m looking to collaborate on Intelligent Transportation
-- 📫 How to reach me yshao05@bu.edu
+- 📫 How to reach me: Issues
 
 <!---
 404nofound/404nofound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
