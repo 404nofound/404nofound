@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @404nofound
 - 👀 Interested in AI, ML, and Intelligent Transportation
-- 🌱 Working on driver behavior, traffic safety, and automated driving
+- 🌱 Working on driver behavior and automated driving
 - 💞️ Open to collaboration on AI for transportation safety
 - 📫 Reach me at yshao05@bu.edu
 
